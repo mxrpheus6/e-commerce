@@ -2,4 +2,3 @@ rootProject.name = 'shop'
 
 include 'auth-service'
 include 'common-jpa'
-
